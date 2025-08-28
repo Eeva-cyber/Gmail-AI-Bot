@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/gmail_ai_bot/__init__.py
+src/gmail_ai_bot/ai_service.py
+src/gmail_ai_bot/config.py
+src/gmail_ai_bot/gmail_quickstart.py
+src/gmail_ai_bot/gmail_service.py
+src/gmail_ai_bot/main.py
+src/gmail_ai_bot.egg-info/PKG-INFO
+src/gmail_ai_bot.egg-info/SOURCES.txt
+src/gmail_ai_bot.egg-info/dependency_links.txt
+src/gmail_ai_bot.egg-info/requires.txt
+src/gmail_ai_bot.egg-info/top_level.txt
+src/gmail_ai_bot/tools/__init__.py
+src/gmail_ai_bot/tools/read.py
+src/gmail_ai_bot/tools/reply.py
+src/gmail_ai_bot/tools/write.py
